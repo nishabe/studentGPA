@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-This is a sample application in NestJS created as suooprting resource for the article: ['Unit testing a NestJS App -  In shortest steps.'](https://medium.com/p/bbe83da6408/)
+This is a sample application in NestJS created as a supporting resource for the article: ['Unit testing a NestJS App -  In shortest steps.'](https://medium.com/p/bbe83da6408/)
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
